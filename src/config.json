@@ -1,0 +1,23 @@
+{
+    "discord": {
+        "token": "MTA1NTUzNzg4MzI0NDY3OTIzOQ.G7ijVK.NOxqUg7WPOjHRituobitbgoKIXbTcj84lpLrgg",
+        "id": "1055537883244679239"
+    },
+    "applications_commands": {
+        "global": true,
+        "guild_id": "1181974416255615051"
+    },
+    "database": {
+        "enabled": false,
+        "url": ""
+    },
+    "express": {
+        "port": 3000
+    },
+    "owners": [
+       "872832060232970252",
+       "1062051926193213602"
+    ],
+    "add": "adding_sub",
+    "remove": "removeing_sub"
+}
